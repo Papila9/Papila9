@@ -97,9 +97,6 @@ Mi experiencia en el sector bancario me permite acercarme a los proyectos de IA 
 
 Me interesa aprender de la comunidad, compartir avances y colaborar en proyectos que unan **datos, inteligencia artificial y resolución de problemas de negocio**.
 
-- 💼 LinkedIn: [Agrega aquí tu enlace de LinkedIn](https://www.linkedin.com/)
-- 📧 Correo: *Agrega aquí el correo que quieras hacer público*
-
 ---
 
 <div align="center">
