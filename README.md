@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Paulina 👋
+# ¡Hola! Soy Paola 👋
 
 ### Estudiante de la Maestría en Inteligencia Artificial | Analítica de datos aplicada a banca, cumplimiento y control
 
